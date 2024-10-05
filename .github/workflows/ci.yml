@@ -1,0 +1,23 @@
+name: Upload Text Files
+
+on:
+  push:
+    paths:
+      - '*.txt'
+      - '**/*.txt'
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: List uploaded text files
+        run: |
+          echo "The following text files were uploaded or modified:"
+          git diff --name-only HEAD^ HEAD | grep '.txt$' || echo "No text files modified."
+          
+      - name: Job complete
+        run: echo "Text file upload workflow completed successfully."
