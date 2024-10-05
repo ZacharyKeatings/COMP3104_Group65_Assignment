@@ -4,9 +4,9 @@
 
 ## 👥 Group Members
 
-| Name           | Student ID         | GitHub Username                               |
-| -------------- | ---------- | --------------------------------------------- |
-| Zach Keatings       | 101422808     | [@ZacharyKeatings](https://github.com/ZacharyKeatings)        |
+| Name           | Student ID | GitHub Username                               | Role |
+| -------------- | ---------- | --------------------------------------------- | ---- |
+| Zach Keatings  | 101422808  | [@ZacharyKeatings](https://github.com/ZacharyKeatings) | Leader |
 
 ---
 
