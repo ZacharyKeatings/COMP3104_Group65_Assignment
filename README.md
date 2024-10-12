@@ -9,6 +9,7 @@
 | Zach Keatings  | 101422808  | [@ZacharyKeatings](https://github.com/ZacharyKeatings) | Leader |
 | Jonathan Weir  | 101181715  | [@Stuckc](https://github.com/Stuckc) | Collaborator |
 | Mustafa Bandukda | 101203879 | [@MustafaBan](https://github.com/Mustafaban) | Collaborator |
+| Daniel Demesa | 101440281 | [@danieldemesa](https://github.com/danieldemesa) | Collaborator |
 ---
 
 ## 📝 Project Description
