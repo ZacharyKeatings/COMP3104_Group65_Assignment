@@ -1,1 +1,2 @@
 The NBA is a professional basketball league in North America, consisting of 30 teams. 
+"The NBA has 30 teams, divided into two conferences and three divisions per conference." 
