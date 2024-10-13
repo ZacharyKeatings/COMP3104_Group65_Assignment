@@ -4,3 +4,4 @@ The NBA is a professional basketball league in North America, consisting of 30 t
 "The NBA Draft is an annual event where teams select eligible players to join the league." 
 "The NBA All-Star Game is an annual exhibition game between the best players from each conference." 
 "The NBA Summer League is where rookies and young players showcase their talent." 
+"The NBA Playoffs is the postseason tournament held to determine the league champion." 
