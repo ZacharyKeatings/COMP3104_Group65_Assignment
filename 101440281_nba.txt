@@ -7,3 +7,4 @@ The NBA is a professional basketball league in North America, consisting of 30 t
 "The NBA Playoffs is the postseason tournament held to determine the league champion." 
 "The NBA MVP Award is given to the best performing player of the regular season." 
 "The NBA Global Games are preseason and regular season games played outside the United States." 
+"The NBA G League is the NBA's official minor league, developing young talent." 

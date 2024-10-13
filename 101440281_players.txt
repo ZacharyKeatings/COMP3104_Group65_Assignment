@@ -7,3 +7,4 @@ Notable NBA players include LeBron James, Stephen Curry, and Michael Jordan.
 "Dirk Nowitzki, known for his fadeaway jump shot, won an NBA championship with the Dallas Mavericks." 
 "Giannis Antetokounmpo, known as 'The Greek Freak,' led the Bucks to the 2021 NBA title." 
 "Kawhi Leonard was the MVP of the 2019 NBA Finals, leading the Raptors to victory." 
+"Kevin Durant is a two-time NBA champion and known for his scoring ability." 
