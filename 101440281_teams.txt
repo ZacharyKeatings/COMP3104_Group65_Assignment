@@ -2,3 +2,4 @@ Some of the most famous NBA teams include the Los Angeles Lakers, Golden State W
 "The Los Angeles Lakers and the Boston Celtics share the most championships in NBA history." 
 "The Golden State Warriors have won the most championships in recent years." 
 "The Brooklyn Nets were founded in 1967 as a charter franchise of the ABA." 
+"The New York Knicks are one of the oldest teams in the NBA, founded in 1946." 

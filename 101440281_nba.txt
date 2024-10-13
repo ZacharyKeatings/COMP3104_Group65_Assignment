@@ -2,3 +2,4 @@ The NBA is a professional basketball league in North America, consisting of 30 t
 "The NBA has 30 teams, divided into two conferences and three divisions per conference." 
 "The NBA Finals is the championship series of the league and the conclusion of the postseason." 
 "The NBA Draft is an annual event where teams select eligible players to join the league." 
+"The NBA All-Star Game is an annual exhibition game between the best players from each conference." 
